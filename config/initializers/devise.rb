@@ -299,4 +299,3 @@ Devise.setup do |config|
   # config.omniauth :facebook, Rails.application.credentials.facebook[:FACEBOOK_CLIENT_ID], Rails.application.credentials.facebook[:FACEBOOK_CLIENT_SECRET]
   # config.omniauth :google_oauth2,ENV['GOOGLE_CLIENT_ID'],ENV['GOOGLE_CLIENT_ID']
 end
-
